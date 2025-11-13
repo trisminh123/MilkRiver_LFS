@@ -1,0 +1,45 @@
+﻿@{
+    var currentAction = ViewContext.RouteData.Values["action"]?.ToString();
+    var currentController = ViewContext.RouteData.Values["controller"]?.ToString();
+    var isSearchAction = currentAction == "Search" && currentController == "Product";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-2">
+            <h5>Sắp xếp theo</h5>
+            @if (isSearchAction)
+            {
+                <select id="search_sort_by" class="form-control">
+                    <option value="@Url.Action("Search", new { searchTerm = ViewBag.Keyword, sort_by = "", startprice = Context.Request.Query["startprice"], endprice = Context.Request.Query["endprice"], page = ViewBag.Paginate?.CurrentPage })">Mặc định</option>
+                    <option value="@Url.Action("Search", new { searchTerm = ViewBag.Keyword, sort_by = "price_increase", startprice = Context.Request.Query["startprice"], endprice = Context.Request.Query["endprice"], page = ViewBag.Paginate?.CurrentPage })">Giá tăng dần</option>
+                    <option value="@Url.Action("Search", new { searchTerm = ViewBag.Keyword, sort_by = "price_decrease", startprice = Context.Request.Query["startprice"], endprice = Context.Request.Query["endprice"], page = ViewBag.Paginate?.CurrentPage })">Giá giảm dần</option>
+                    <option value="@Url.Action("Search", new { searchTerm = ViewBag.Keyword, sort_by = "price_newest", startprice = Context.Request.Query["startprice"], endprice = Context.Request.Query["endprice"], page = ViewBag.Paginate?.CurrentPage })">Mới nhất</option>
+                    <option value="@Url.Action("Search", new { searchTerm = ViewBag.Keyword, sort_by = "price_oldest", startprice = Context.Request.Query["startprice"], endprice = Context.Request.Query["endprice"], page = ViewBag.Paginate?.CurrentPage })">Cũ nhất</option>
+                </select>
+            }
+            else
+            {
+                <select id="sort_by" class="form-control">
+                    <option value="@Url.Action("Index", new { sort_by = "", startprice = Context.Request.Query["startprice"], endprice = Context.Request.Query["endprice"], page = ViewBag.Paginate?.CurrentPage })">Mặc định</option>
+                    <option value="@Url.Action("Index", new { sort_by = "price_increase", startprice = Context.Request.Query["startprice"], endprice = Context.Request.Query["endprice"], page = ViewBag.Paginate?.CurrentPage })">Giá tăng dần</option>
+                    <option value="@Url.Action("Index", new { sort_by = "price_decrease", startprice = Context.Request.Query["startprice"], endprice = Context.Request.Query["endprice"], page = ViewBag.Paginate?.CurrentPage })">Giá giảm dần</option>
+                    <option value="@Url.Action("Index", new { sort_by = "price_newest", startprice = Context.Request.Query["startprice"], endprice = Context.Request.Query["endprice"], page = ViewBag.Paginate?.CurrentPage })">Mới nhất</option>
+                    <option value="@Url.Action("Index", new { sort_by = "price_oldest", startprice = Context.Request.Query["startprice"], endprice = Context.Request.Query["endprice"], page = ViewBag.Paginate?.CurrentPage })">Cũ nhất</option>
+                </select>
+
+            }
+        </div>
+
+        <div class="col-md-5">
+            <h5>Lọc theo giá</h5>
+            <form asp-action="Index" asp-controller="Category">
+                <p>
+                    <input type="text" id="amount" readonly="" style="border:0; color:#f6931f; font-weight:bold;">
+                </p>
+                <div id="slider-range"></div>
+                <button style="margin-top:5px" type="submit" name="locgia" data-current_url="@Url.ActionContext.HttpContext.Request.Path" class="btn btn-danger btn-locgia">Lọc giá</button>
+            </form>
+        </div>
+    </div>
+</div>

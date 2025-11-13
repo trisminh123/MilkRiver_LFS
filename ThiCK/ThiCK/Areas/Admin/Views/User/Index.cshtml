@@ -1,0 +1,45 @@
+﻿@model IEnumerable<UserWithRoleViewModel>
+@{
+    ViewData["title"] = "User List";
+    Paginate pager = new Paginate();
+    int pageNo = 0;
+    if (ViewBag.Paper != null)
+    {
+        pager = ViewBag.Pager;
+        pageNo = pager.CurrentPage;
+    }
+}
+<h3>User List</h3>
+<a class="btn btn-primary" asp-action="Create" asp-controller="User">Add User</a>
+<table class="table" id="myTable">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>User Name</th>
+            <th>Email</th>
+            <th>Phone Number</th>
+            <th>Role</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.Id</td>
+                <td>@user.UserName</td>
+                <td>@user.Email</td>
+                <td>@user.PhoneNumber</td>
+                <td>@user.RoleName</td>
+                <td>
+                    <a asp-action="Edit" asp-route-Id="@user.Id" class="btn btn-warning btn-sm">Edit</a>
+                    <a asp-action="Delete" asp-route-Id="@user.Id" class="btn btn-danger btn-sm confirmDeletion">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<script src="~/js/jquery.js"></script> <!-- jQuery phải được tải trước -->
+<script src="//cdn.datatables.net/2.1.8/js/dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/buttons/3.2.0/js/dataTables.buttons.js"></script>
+<script src="https://cdn.datatables.net/buttons/3.2.0/js/buttons.dataTables.js"></script>

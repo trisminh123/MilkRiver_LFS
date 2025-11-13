@@ -1,0 +1,19 @@
+﻿@model ContactModel
+<div class="row">
+	<div class="col-sm-6">
+			@Html.Raw(Model.Map)
+			</div>
+	<div class="col-sm-6">
+			@Html.Raw(Model.Description)
+		<div class="address">
+			<h5>Name: @Model.Name</h5>
+			<h5>Email: @Model.Email</h5>
+			<h5>Phone: @Model.Phone</h5>
+
+		</div>
+		</div>
+	</div>
+
+</div>
+
+

@@ -1,0 +1,61 @@
+﻿@model IEnumerable<OrderModel>
+@{
+	ViewData["title"] = "Order Listed";
+	Paginate paper = new Paginate();
+	int pageNo = 0;
+	if (ViewBag.Paper != null)
+	{
+		paper = ViewBag.Paper;
+		pageNo = paper.CurrentPage;
+	}
+}
+<h3>List Order</h3>
+<table class="table" id="myTable">
+	<thead>
+		<tr>
+			<th scope="col">Id</th>
+			<th scope="col">Order Code</th>
+			<th>Shipping Cost</th>
+			<th scope="col">Username</th>
+			<th scope="col">Order Date</th>
+			<th scope="col">Order Status</th>
+			<th scope="col">Actions</th> <!-- Thêm tiêu đề cột cho các hành động -->
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model)
+		{
+			<tr>
+				<th scope="row">@item.Id</th> <!-- Thay thế <th>#</th> bằng @item.Id -->
+				<td>@item.OrderCode</td>
+				<td>@item.ShippingCost.ToString("#,##0 VND")</td>
+				<td>@item.UserName</td>
+				<td>@item.CreatedDate</td>
+				<td>
+					@if (item.Status == 1)
+					{
+						<span class="text text-success">Đơn hàng mới</span>
+					}
+					else if (item.Status == 2)
+					{
+						<span class="text text-primary">Đã giao hàng</span>
+					}
+					else
+					{
+						<span class="text text-danger">Đã hủy</span>
+					}
+				</td>
+				<td>
+					
+						<!-- Cột chứa các nút hành động -->
+						<a asp-action="ViewOrder" class="btn btn-warning btn-sm" asp-controller="Order" asp-route-ordercode="@item.OrderCode">View Order</a>
+					@if (item.Status != 3)
+					{
+						<a asp-action="Delete" class="btn btn-danger btn-sm confirmDeletion" asp-controller="Order" asp-route-Id="@item.Id">Delete</a>
+					}
+					
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>

@@ -1,0 +1,67 @@
+﻿@model IEnumerable<OrderDetails>
+@{
+	ViewData["title"] = "Order Details";
+	decimal total = 0;
+	decimal subtotal = 0;
+
+}
+<h3>Chi tiết đơn hàng </h3>
+<table class="table" id="detail_order">
+	<thead>
+		<tr>
+			<th scope="col">Tên sản phẩm</th>
+			<th scope="col">Giá</th>
+			<th scope="col">Số lượng</th>
+			<th scope="col">Tổng phụ</th>
+
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model)
+		{
+			subtotal = item.Quantity * item.Price;
+			total += subtotal;
+			<tr>
+				<input type="hidden" asp-for="@item.OrderCode" class="getId" />
+				
+				<td>@item.Product.Name</td>
+				<td>@item.Price.ToString("#,##0 VND")</td>
+				<td>@item.Quantity</td>
+				<td>@subtotal.ToString("#,##0 VND")</td>
+
+
+			</tr>
+		}
+		<tr>
+			<td>Tổng cộng:</td>
+		
+			<td>@total.ToString("#,##0 VND")</td>
+			<td>Phí ship: @ViewBag.ShippingCost.ToString("#,##0 VND")</td>
+			<td>
+				
+				@if(ViewBag.Status == 3)
+				{
+					<p style="color:red">Đã hủy</p>
+
+				}
+			
+			</td>
+		</tr>
+		
+		<a asp-action="History" class="btn btn-primary">Trở về</a>
+	</tbody>
+</table>
+
+@section Scripts {
+	<script>
+		new DataTable('#detail_order', {
+			layout: {
+				topStart: {
+					buttons: ['pdf', 'print']
+				}
+			}
+		});
+	</script>
+
+	
+}

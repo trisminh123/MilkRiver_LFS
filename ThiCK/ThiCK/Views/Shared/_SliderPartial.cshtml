@@ -1,0 +1,83 @@
+﻿<style>
+    /* Nút chuyển slide */
+    .carousel .control-carousel {
+        position: absolute;
+        top: 50%; /* Căn giữa theo chiều dọc */
+        transform: translateY(-50%); /* Căn chỉnh chính xác */
+        z-index: 10; /* Đảm bảo luôn nằm trên slider */
+        color: #333;
+    }
+
+        /* Nút chuyển slide bên trái */
+        .carousel .control-carousel.left {
+            left: 0; /* Căn sát lề trái */
+            padding-left: 100px;
+        }
+
+        /* Nút chuyển slide bên phải */
+        .carousel .control-carousel.right {
+            right: 0; /* Căn sát lề phải */
+            padding-right: 0px;
+        }
+
+        /* Tùy chỉnh kích thước nút (nếu cần) */
+        .carousel .control-carousel i {
+            font-size: 30px;
+            color: #333; /* Màu sắc nút */
+        }
+
+    /* Đảm bảo nút không chồng lên hình ảnh */
+    .carousel-inner {
+        position: relative;
+        width: 100%;
+        height: 400px; /* Đặt chiều cao cố định */
+        overflow: hidden; /* Ẩn phần dư nếu hình quá lớn */
+       
+    }
+
+        /* Hình ảnh trong slider */
+        .carousel-inner .item img {
+            width: 100%; /* Hình ảnh luôn rộng bằng slider */
+            height: 100%; /* Căn chỉnh chiều cao theo slider */
+            object-fit: cover; /* Đảm bảo hình ảnh không bị méo, vừa khít slider */
+        }
+</style>
+
+<section id="slider">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <div id="slider-carousel" class="carousel slide" data-ride="carousel">
+                    <ol class="carousel-indicators">
+                        @for (int i = 0; i < ViewBag.Sliders.Count; i++)
+                        {
+                            <li data-target="#slider-carousel" data-slide-to="@i" class="@(i == 0 ? "active" : "")"></li>
+                        }
+                    </ol>
+
+                    <div class="carousel-inner">
+                        @{
+                            int index = 0;
+                        }
+                        @foreach (var slider in ViewBag.Sliders)
+                        {
+                            <div class="item @(index == 0 ? "active" : "")">
+                                <div class="col-sm-12">
+                                    <img src="~/media/sliders/@slider.Image" class="img-responsive" />
+                                </div>
+                            </div>
+                            index++;
+                        }
+                    </div>
+
+                    <a href="#slider-carousel" class="left control-carousel hidden-xs" data-slide="prev">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                    <a href="#slider-carousel" class="right control-carousel hidden-xs" data-slide="next">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

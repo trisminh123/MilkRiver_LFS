@@ -1,0 +1,785 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\ThiCK.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ThiCK.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\backend\\js\\site.js",
+      "PackagePath": "staticwebassets\\backend\\js\\site.js"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\css\\prettyPhoto.css",
+      "PackagePath": "staticwebassets\\css\\prettyPhoto.css"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\css\\price-range.css",
+      "PackagePath": "staticwebassets\\css\\price-range.css"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\Dairy_Products_Logo.png",
+      "PackagePath": "staticwebassets\\images\\Dairy_Products_Logo.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\KEM_DELIGHT_oc_que_DAU_3a92646670.png",
+      "PackagePath": "staticwebassets\\images\\KEM_DELIGHT_oc_que_DAU_3a92646670.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\KEM_Kem_hop_VNM_Saurieng_400_01_7d870a4568.png",
+      "PackagePath": "staticwebassets\\images\\KEM_Kem_hop_VNM_Saurieng_400_01_7d870a4568.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\Oc-Que_Socola-1_800x800.png",
+      "PackagePath": "staticwebassets\\images\\Oc-Que_Socola-1_800x800.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\SBNL_CANXI_PRO_400_1_e95e92c754.png",
+      "PackagePath": "staticwebassets\\images\\SBNL_CANXI_PRO_400_1_e95e92c754.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\SBNL_SURE_PREVENT_900_b4c65c1269.png",
+      "PackagePath": "staticwebassets\\images\\SBNL_SURE_PREVENT_900_b4c65c1269.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\SBTE_Dielac_Alpha_S4_900_9ac67dd89c.png",
+      "PackagePath": "staticwebassets\\images\\SBTE_Dielac_Alpha_S4_900_9ac67dd89c.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\SD_NSPN_Xanh_bien_1284_1_3450476dce.png",
+      "PackagePath": "staticwebassets\\images\\SD_NSPN_Xanh_bien_1284_1_3450476dce.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\SD_Ong_Tho_Do_40_2_144c283f59.png",
+      "PackagePath": "staticwebassets\\images\\SD_Ong_Tho_Do_40_2_144c283f59.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\SD_Ong_Tho_Xanhla_380_1_718fd5ef2e.png",
+      "PackagePath": "staticwebassets\\images\\SD_Ong_Tho_Xanhla_380_1_718fd5ef2e.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\banner_th.png",
+      "PackagePath": "staticwebassets\\images\\banner_th.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\có-đường-png-2.png",
+      "PackagePath": "staticwebassets\\images\\có-đường-png-2.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\gallery1.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery1.jpg"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\ice-cream-hop-50g-vani_800x800.png",
+      "PackagePath": "staticwebassets\\images\\ice-cream-hop-50g-vani_800x800.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\kem-2-vi.png",
+      "PackagePath": "staticwebassets\\images\\kem-2-vi.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\logo milkStore.webp",
+      "PackagePath": "staticwebassets\\images\\logo milkStore.webp"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\nguyen-chat-1L-2024-1.jpg",
+      "PackagePath": "staticwebassets\\images\\nguyen-chat-1L-2024-1.jpg"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\nguyên-chất-png-1 (1).png",
+      "PackagePath": "staticwebassets\\images\\nguyên-chất-png-1 (1).png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\nguyên-chất-png.png",
+      "PackagePath": "staticwebassets\\images\\nguyên-chất-png.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\probi_coduong.png",
+      "PackagePath": "staticwebassets\\images\\probi_coduong.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\probi_duagang.png",
+      "PackagePath": "staticwebassets\\images\\probi_duagang.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\probi_huongcam.png",
+      "PackagePath": "staticwebassets\\images\\probi_huongcam.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\probi_huongdau.png",
+      "PackagePath": "staticwebassets\\images\\probi_huongdau.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\probi_itduong.png",
+      "PackagePath": "staticwebassets\\images\\probi_itduong.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\probi_luudo.png",
+      "PackagePath": "staticwebassets\\images\\probi_luudo.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\probi_matong.png",
+      "PackagePath": "staticwebassets\\images\\probi_matong.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\probi_vietquat.png",
+      "PackagePath": "staticwebassets\\images\\probi_vietquat.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\que-4.png",
+      "PackagePath": "staticwebassets\\images\\que-4.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\th_itbeo.png",
+      "PackagePath": "staticwebassets\\images\\th_itbeo.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\th_saurieng.png",
+      "PackagePath": "staticwebassets\\images\\th_saurieng.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\th_sori.png",
+      "PackagePath": "staticwebassets\\images\\th_sori.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\th_suachuaan_itduong.PNG",
+      "PackagePath": "staticwebassets\\images\\th_suachuaan_itduong.PNG"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\th_suachuauong_coduong.png",
+      "PackagePath": "staticwebassets\\images\\th_suachuauong_coduong.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\th_suachuauong_dau.png",
+      "PackagePath": "staticwebassets\\images\\th_suachuauong_dau.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\th_suachuauong_vanila.png",
+      "PackagePath": "staticwebassets\\images\\th_suachuauong_vanila.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\th_suachuauong_vietquat.png",
+      "PackagePath": "staticwebassets\\images\\th_suachuauong_vietquat.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\th_suatuoi_nguyenchat.PNG",
+      "PackagePath": "staticwebassets\\images\\th_suatuoi_nguyenchat.PNG"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\vinamilk_coduong.png",
+      "PackagePath": "staticwebassets\\images\\vinamilk_coduong.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\vinamilk_dau.png",
+      "PackagePath": "staticwebassets\\images\\vinamilk_dau.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\vinamilk_itduong.png",
+      "PackagePath": "staticwebassets\\images\\vinamilk_itduong.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\vinamilk_koduong.png",
+      "PackagePath": "staticwebassets\\images\\vinamilk_koduong.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\vinamilk_luudo.png",
+      "PackagePath": "staticwebassets\\images\\vinamilk_luudo.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\vinamilk_nepcam.png",
+      "PackagePath": "staticwebassets\\images\\vinamilk_nepcam.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\vinamilk_nhadam_itduong.png",
+      "PackagePath": "staticwebassets\\images\\vinamilk_nhadam_itduong.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\vinamilk_suadac_ngoisaopn_xanhla.png",
+      "PackagePath": "staticwebassets\\images\\vinamilk_suadac_ngoisaopn_xanhla.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\vinamilk_thachdua.png",
+      "PackagePath": "staticwebassets\\images\\vinamilk_thachdua.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\vinamilk_tranchau.png",
+      "PackagePath": "staticwebassets\\images\\vinamilk_tranchau.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\vinamilk_vietquat.png",
+      "PackagePath": "staticwebassets\\images\\vinamilk_vietquat.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\vinamilk_yogurt_coduong.PNG",
+      "PackagePath": "staticwebassets\\images\\vinamilk_yogurt_coduong.PNG"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\vinamilk_yogurt_fruit.png",
+      "PackagePath": "staticwebassets\\images\\vinamilk_yogurt_fruit.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\vinamilk_yogurt_nhadam_coduong.png",
+      "PackagePath": "staticwebassets\\images\\vinamilk_yogurt_nhadam_coduong.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\images\\ít-đường-png-2.png",
+      "PackagePath": "staticwebassets\\images\\ít-đường-png-2.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\js\\contact.js",
+      "PackagePath": "staticwebassets\\js\\contact.js"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\js\\gmaps.js",
+      "PackagePath": "staticwebassets\\js\\gmaps.js"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\js\\html5shiv.js",
+      "PackagePath": "staticwebassets\\js\\html5shiv.js"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\js\\jquery.prettyPhoto.js",
+      "PackagePath": "staticwebassets\\js\\jquery.prettyPhoto.js"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\js\\price-range.js",
+      "PackagePath": "staticwebassets\\js\\price-range.js"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\404NotFound\\404notfound.PNG",
+      "PackagePath": "staticwebassets\\media\\404NotFound\\404notfound.PNG"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\Logo\\48c002dc-c2a1-4786-9c0b-a9961d869b22_Dairy_Products_Logo.png",
+      "PackagePath": "staticwebassets\\media\\Logo\\48c002dc-c2a1-4786-9c0b-a9961d869b22_Dairy_Products_Logo.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\07a2d745-cb6b-4942-9b3a-4c6a2064a45c_vinamilk_vietquat.png",
+      "PackagePath": "staticwebassets\\media\\products\\07a2d745-cb6b-4942-9b3a-4c6a2064a45c_vinamilk_vietquat.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\13631c1e-d172-44a9-a7b7-d8fef126d088_nguyên-chất-png.png",
+      "PackagePath": "staticwebassets\\media\\products\\13631c1e-d172-44a9-a7b7-d8fef126d088_nguyên-chất-png.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\17f62f92-93ee-428d-b00d-c3128041d3e9_có-đường-png-2.png",
+      "PackagePath": "staticwebassets\\media\\products\\17f62f92-93ee-428d-b00d-c3128041d3e9_có-đường-png-2.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\19db044e-022c-459e-ada7-a9a751f16518_ít-đường-png-2.png",
+      "PackagePath": "staticwebassets\\media\\products\\19db044e-022c-459e-ada7-a9a751f16518_ít-đường-png-2.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\21e7e622-462c-4f02-aa59-77f9b5d46aeb_SD_Ong_Tho_Xanhla_380_1_718fd5ef2e.png",
+      "PackagePath": "staticwebassets\\media\\products\\21e7e622-462c-4f02-aa59-77f9b5d46aeb_SD_Ong_Tho_Xanhla_380_1_718fd5ef2e.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\2402fb40-2f1d-4353-ac7d-7dc6db78fb9e_nguyen-chat-1L-2024-1.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\2402fb40-2f1d-4353-ac7d-7dc6db78fb9e_nguyen-chat-1L-2024-1.jpg"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\2622387c-571b-481c-b38b-94646360daa0_probi_matong.png",
+      "PackagePath": "staticwebassets\\media\\products\\2622387c-571b-481c-b38b-94646360daa0_probi_matong.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\2883fd61-6efb-4c8c-8a3c-b623f53037f3_vinamilk_dau.png",
+      "PackagePath": "staticwebassets\\media\\products\\2883fd61-6efb-4c8c-8a3c-b623f53037f3_vinamilk_dau.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\2f7401e4-ac04-48a6-8a1f-f36607b83412_th_saurieng.png",
+      "PackagePath": "staticwebassets\\media\\products\\2f7401e4-ac04-48a6-8a1f-f36607b83412_th_saurieng.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\34239998-4dce-41dc-a699-40e38c00bc8c_th_suachuauong_coduong.png",
+      "PackagePath": "staticwebassets\\media\\products\\34239998-4dce-41dc-a699-40e38c00bc8c_th_suachuauong_coduong.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\3bc7d65e-7fe5-4516-91bb-88bfce4cef6d_vinamilk_yogurt_nhadam_coduong.png",
+      "PackagePath": "staticwebassets\\media\\products\\3bc7d65e-7fe5-4516-91bb-88bfce4cef6d_vinamilk_yogurt_nhadam_coduong.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\3c206d99-4153-4d96-980a-f7260213dd0b_th_itbeo.png",
+      "PackagePath": "staticwebassets\\media\\products\\3c206d99-4153-4d96-980a-f7260213dd0b_th_itbeo.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\3cdafbd4-8b6d-4327-98a0-cd0a4a41d373_vinamilk_tranchau.png",
+      "PackagePath": "staticwebassets\\media\\products\\3cdafbd4-8b6d-4327-98a0-cd0a4a41d373_vinamilk_tranchau.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\40bd50ae-d5f2-42ff-90d2-e639f9606daf_probi_huongdau.png",
+      "PackagePath": "staticwebassets\\media\\products\\40bd50ae-d5f2-42ff-90d2-e639f9606daf_probi_huongdau.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\44e535ea-89ef-4a2f-b8a4-65a94943f521_vinamilk_thachdua.png",
+      "PackagePath": "staticwebassets\\media\\products\\44e535ea-89ef-4a2f-b8a4-65a94943f521_vinamilk_thachdua.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\485421d2-ed78-4755-b076-19f5238b07b5_Oc-Que_Socola-1_800x800.png",
+      "PackagePath": "staticwebassets\\media\\products\\485421d2-ed78-4755-b076-19f5238b07b5_Oc-Que_Socola-1_800x800.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\5095ab1e-aad6-4f21-8f2d-ed550a8c7b1c_vinamilk_luudo.png",
+      "PackagePath": "staticwebassets\\media\\products\\5095ab1e-aad6-4f21-8f2d-ed550a8c7b1c_vinamilk_luudo.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\511ccf5d-fa78-4858-ac52-e1c67d2c7c8e_SD_Ong_Tho_Do_40_2_144c283f59.png",
+      "PackagePath": "staticwebassets\\media\\products\\511ccf5d-fa78-4858-ac52-e1c67d2c7c8e_SD_Ong_Tho_Do_40_2_144c283f59.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\5782e242-795b-45a4-a8d3-d345f41aee30_probi_huongcam.png",
+      "PackagePath": "staticwebassets\\media\\products\\5782e242-795b-45a4-a8d3-d345f41aee30_probi_huongcam.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\5aa44e44-b09e-4b06-88b0-bc13c7512d7b_vinamilk_yogurt_fruit.png",
+      "PackagePath": "staticwebassets\\media\\products\\5aa44e44-b09e-4b06-88b0-bc13c7512d7b_vinamilk_yogurt_fruit.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\5bcd2543-6fc7-4485-90f7-cb9f95635310_th_suachuauong_vanila.png",
+      "PackagePath": "staticwebassets\\media\\products\\5bcd2543-6fc7-4485-90f7-cb9f95635310_th_suachuauong_vanila.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\5d8d4c1b-8a79-44c5-95e5-6df08fb9d75d_SD_NSPN_Xanh_bien_1284_1_3450476dce.png",
+      "PackagePath": "staticwebassets\\media\\products\\5d8d4c1b-8a79-44c5-95e5-6df08fb9d75d_SD_NSPN_Xanh_bien_1284_1_3450476dce.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\5e587b23-ac26-4c5f-9db1-42b9fd8076be_th_suachuaan_itduong.PNG",
+      "PackagePath": "staticwebassets\\media\\products\\5e587b23-ac26-4c5f-9db1-42b9fd8076be_th_suachuaan_itduong.PNG"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\5f98b579-4263-4310-8427-e0a8c684bfb2_vinamilk_suadac_ngoisaopn_xanhla.png",
+      "PackagePath": "staticwebassets\\media\\products\\5f98b579-4263-4310-8427-e0a8c684bfb2_vinamilk_suadac_ngoisaopn_xanhla.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\6ef9a60c-05d6-43a5-84c1-685f5bbad118_vinamilk_nepcam.png",
+      "PackagePath": "staticwebassets\\media\\products\\6ef9a60c-05d6-43a5-84c1-685f5bbad118_vinamilk_nepcam.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\750f43d3-86f7-4058-9ea6-7e0ca6589442_ice-cream-hop-50g-vani_800x800.png",
+      "PackagePath": "staticwebassets\\media\\products\\750f43d3-86f7-4058-9ea6-7e0ca6589442_ice-cream-hop-50g-vani_800x800.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\83839603-d1d0-4e40-81f4-b17b9e8020eb_th_suachuauong_dau.png",
+      "PackagePath": "staticwebassets\\media\\products\\83839603-d1d0-4e40-81f4-b17b9e8020eb_th_suachuauong_dau.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\8e701ff6-548c-4c1e-ad29-79b6162040da_vinamilk_luudo.png",
+      "PackagePath": "staticwebassets\\media\\products\\8e701ff6-548c-4c1e-ad29-79b6162040da_vinamilk_luudo.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\93c93d67-92b6-43c5-87ce-95301abeeb9a_SBNL_CANXI_PRO_400_1_e95e92c754.png",
+      "PackagePath": "staticwebassets\\media\\products\\93c93d67-92b6-43c5-87ce-95301abeeb9a_SBNL_CANXI_PRO_400_1_e95e92c754.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\a5789245-09e9-4e27-a34e-e201f80a50ce_vinamilk_koduong.png",
+      "PackagePath": "staticwebassets\\media\\products\\a5789245-09e9-4e27-a34e-e201f80a50ce_vinamilk_koduong.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\ab5bc6c1-256b-4ae8-88f0-9d0f2823e417_KEM_DELIGHT_oc_que_DAU_3a92646670.png",
+      "PackagePath": "staticwebassets\\media\\products\\ab5bc6c1-256b-4ae8-88f0-9d0f2823e417_KEM_DELIGHT_oc_que_DAU_3a92646670.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\b1a87f87-9ff2-4396-8031-a524e5882801_kem-2-vi.png",
+      "PackagePath": "staticwebassets\\media\\products\\b1a87f87-9ff2-4396-8031-a524e5882801_kem-2-vi.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\b1f45c90-8c19-48fe-afef-2ebfd41ac358_vinamilk_coduong.png",
+      "PackagePath": "staticwebassets\\media\\products\\b1f45c90-8c19-48fe-afef-2ebfd41ac358_vinamilk_coduong.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\b6361536-59d5-4320-8991-3d7215eb6781_probi_itduong.png",
+      "PackagePath": "staticwebassets\\media\\products\\b6361536-59d5-4320-8991-3d7215eb6781_probi_itduong.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\b6c284f3-aa81-453a-80c3-89a95409d5b6_th_sori.png",
+      "PackagePath": "staticwebassets\\media\\products\\b6c284f3-aa81-453a-80c3-89a95409d5b6_th_sori.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\b7db9eb0-6b0b-469f-a4a9-9f36720c0c96_vinamilk_itduong.png",
+      "PackagePath": "staticwebassets\\media\\products\\b7db9eb0-6b0b-469f-a4a9-9f36720c0c96_vinamilk_itduong.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\c51f9b4e-d690-4b14-b8d9-623c0c3129ed_nguyên-chất-png.png",
+      "PackagePath": "staticwebassets\\media\\products\\c51f9b4e-d690-4b14-b8d9-623c0c3129ed_nguyên-chất-png.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\c69dbd43-7873-45ff-be5c-24b37c2b56e1_probi_coduong.png",
+      "PackagePath": "staticwebassets\\media\\products\\c69dbd43-7873-45ff-be5c-24b37c2b56e1_probi_coduong.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\cc0d7add-2b61-4593-bfaa-7dabd4222437_vinamilk_nhadam_itduong.png",
+      "PackagePath": "staticwebassets\\media\\products\\cc0d7add-2b61-4593-bfaa-7dabd4222437_vinamilk_nhadam_itduong.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\cc19e247-9e01-4ca7-b1b2-6ec2d3322530_SBTE_Dielac_Alpha_S4_900_9ac67dd89c.png",
+      "PackagePath": "staticwebassets\\media\\products\\cc19e247-9e01-4ca7-b1b2-6ec2d3322530_SBTE_Dielac_Alpha_S4_900_9ac67dd89c.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\d49f9853-b435-4c27-a513-f3797ad690a0_SBNL_SURE_PREVENT_900_b4c65c1269.png",
+      "PackagePath": "staticwebassets\\media\\products\\d49f9853-b435-4c27-a513-f3797ad690a0_SBNL_SURE_PREVENT_900_b4c65c1269.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\d59c76b1-6605-4597-8d29-70271cac65b1_que-4.png",
+      "PackagePath": "staticwebassets\\media\\products\\d59c76b1-6605-4597-8d29-70271cac65b1_que-4.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\d5df21f3-8fb1-4dbf-8580-cbca5cc0dbea_probi_luudo.png",
+      "PackagePath": "staticwebassets\\media\\products\\d5df21f3-8fb1-4dbf-8580-cbca5cc0dbea_probi_luudo.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\ddd7d193-9dfa-493d-94b7-dbf5acf4c8e5_KEM_Kem_hop_VNM_Saurieng_400_01_7d870a4568.png",
+      "PackagePath": "staticwebassets\\media\\products\\ddd7d193-9dfa-493d-94b7-dbf5acf4c8e5_KEM_Kem_hop_VNM_Saurieng_400_01_7d870a4568.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\de8da390-989f-4b08-b23b-ac32d60e2d95_vinamilk_itduong.png",
+      "PackagePath": "staticwebassets\\media\\products\\de8da390-989f-4b08-b23b-ac32d60e2d95_vinamilk_itduong.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\ec62f4da-92ef-49c5-b44c-5763d92824b8_th_suachuauong_vietquat.png",
+      "PackagePath": "staticwebassets\\media\\products\\ec62f4da-92ef-49c5-b44c-5763d92824b8_th_suachuauong_vietquat.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\f00275d8-bf5e-48fb-8889-2abf84a708bd_th_suatuoi_nguyenchat.PNG",
+      "PackagePath": "staticwebassets\\media\\products\\f00275d8-bf5e-48fb-8889-2abf84a708bd_th_suatuoi_nguyenchat.PNG"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\f02dfe45-1967-462d-a9ce-11deba76891d_probi_vietquat.png",
+      "PackagePath": "staticwebassets\\media\\products\\f02dfe45-1967-462d-a9ce-11deba76891d_probi_vietquat.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\f600db62-d35e-49d5-b385-ee27bd2fb7d6_vinamilk_yogurt_nhadam_coduong.png",
+      "PackagePath": "staticwebassets\\media\\products\\f600db62-d35e-49d5-b385-ee27bd2fb7d6_vinamilk_yogurt_nhadam_coduong.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\products\\f6077d9b-8a3b-443e-9ca9-cb2e044f1156_probi_duagang.png",
+      "PackagePath": "staticwebassets\\media\\products\\f6077d9b-8a3b-443e-9ca9-cb2e044f1156_probi_duagang.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\sliders\\14de32a0-6ff8-491e-a10c-497f8611fe13_gallery1.jpg",
+      "PackagePath": "staticwebassets\\media\\sliders\\14de32a0-6ff8-491e-a10c-497f8611fe13_gallery1.jpg"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\sliders\\17ee3707-5569-40b2-8640-3f521002d7c0_gallery1.jpg",
+      "PackagePath": "staticwebassets\\media\\sliders\\17ee3707-5569-40b2-8640-3f521002d7c0_gallery1.jpg"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\sliders\\5e44d3c9-e442-4d86-bd8a-eac5e8832bc2_banner-vinamilk.jpg",
+      "PackagePath": "staticwebassets\\media\\sliders\\5e44d3c9-e442-4d86-bd8a-eac5e8832bc2_banner-vinamilk.jpg"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\sliders\\6759d46f-2886-49c3-9c47-cffebbf18164_banner_th.png",
+      "PackagePath": "staticwebassets\\media\\sliders\\6759d46f-2886-49c3-9c47-cffebbf18164_banner_th.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\sliders\\9fadad49-b4e7-486d-9dd8-da0790441112_banner_th.png",
+      "PackagePath": "staticwebassets\\media\\sliders\\9fadad49-b4e7-486d-9dd8-da0790441112_banner_th.png"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\sliders\\Banner_dutchlady.jpg",
+      "PackagePath": "staticwebassets\\media\\sliders\\Banner_dutchlady.jpg"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\sliders\\banner-vinamilk.jpg",
+      "PackagePath": "staticwebassets\\media\\sliders\\banner-vinamilk.jpg"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\sliders\\banner_th.jpg",
+      "PackagePath": "staticwebassets\\media\\sliders\\banner_th.jpg"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\sliders\\d212ad16-0fca-4128-bb2b-a651ded1e4bf_gallery1.jpg",
+      "PackagePath": "staticwebassets\\media\\sliders\\d212ad16-0fca-4128-bb2b-a651ded1e4bf_gallery1.jpg"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\sliders\\d7ffccfe-e98e-4620-97a3-97a6a826c3c9_Banner_dutchlady.jpg",
+      "PackagePath": "staticwebassets\\media\\sliders\\d7ffccfe-e98e-4620-97a3-97a6a826c3c9_Banner_dutchlady.jpg"
+    },
+    {
+      "Id": "E:\\nam_3\\phat_trien_ung_dung_web\\ThiCK\\ThiCK\\wwwroot\\media\\sliders\\fb7c79f0-8549-4592-bc52-0e1987b30285_gallery1.jpg",
+      "PackagePath": "staticwebassets\\media\\sliders\\fb7c79f0-8549-4592-bc52-0e1987b30285_gallery1.jpg"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.ThiCK.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.ThiCK.props",
+      "PackagePath": "build\\ThiCK.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ThiCK.props",
+      "PackagePath": "buildMultiTargeting\\ThiCK.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.ThiCK.props",
+      "PackagePath": "buildTransitive\\ThiCK.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
